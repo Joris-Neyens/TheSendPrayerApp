@@ -121,7 +121,7 @@ export default function privacy_policy() {
               <br></br>
               <b>Place</b>
               <p>
-                The Data is processed at the Data Controller's operating offices and in any other places where the parties involved with the processing are
+                The Data is processed at the Data Controller&apos;s operating offices and in any other places where the parties involved with the processing are
                 located. For further information, please contact the Data Controller.
               </p>
               <br></br>
@@ -134,7 +134,7 @@ export default function privacy_policy() {
               <b>The use of the collected Data</b>
               <p>
                 The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Access to
-                third party services' accounts, Creation of the user in app profile, Content commenting and Interaction with external social networks and
+                third party services&apos; accounts, Creation of the user in app profile, Content commenting and Interaction with external social networks and
                 platforms. The Personal Data used for each purpose is outlined in the specific sections of this document.
               </p>
             </section>
@@ -143,12 +143,12 @@ export default function privacy_policy() {
               <br></br>
               <b>Legal action</b>
               <p>
-                The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action
+                The User&apos;s Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action
                 arising from improper use of this Application or the related services. The User is aware of the fact that the Data Controller may be required to
                 reveal personal data upon request of public authorities.
               </p>
               <br></br>
-              <b>Additional information about User's Personal Data</b>
+              <b>Additional information about User&apos;s Personal Data</b>
               <p>
                 In addition to the information contained in this privacy policy, this Application may provide the User with additional and contextual
                 information concerning particular services or the collection and processing of Personal Data upon request.
@@ -211,10 +211,10 @@ export default function privacy_policy() {
                 Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP
                 addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the
                 time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code
-                indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the
+                indicating the status of the server&apos;s answer (successful outcome, error, etc.), the country of origin, the features of the browser and the
                 operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the
                 details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the
-                device operating system and/or the User's IT environment.
+                device operating system and/or the User&apos;s IT environment.
               </p>
               <br></br>
               <b>User</b>
@@ -241,7 +241,7 @@ export default function privacy_policy() {
               <p>The hardware or software tool by which the Personal Data of the User is collected.</p>
               <br></br>
               <b>Cookie</b>
-              <p>Small piece of data stored in the User's device.</p>
+              <p>Small piece of data stored in the User&apos;s device.</p>
               <br></br>
               <b>Legal information</b>
               <p>
